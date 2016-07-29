@@ -7,7 +7,7 @@
 //
 
 #import "MCProxy.h"
-
+#import "MCShorthand.h"
 
 @interface MCVelocityProxy : MCProxy
 
